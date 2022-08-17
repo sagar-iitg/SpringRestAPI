@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;springrest&apos;&#x0D;&#x0A;- Original project: &apos;springrest&apos;&#x0D;&#x0A;- Original element: &apos;springrest/src/main/java/com.springrest.springrest.com.springrest.springrest&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springrest.springrest.com.springrest.springrest" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springrest.springrest.com.springrest" element3="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.springrest.springrest.com" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1660733461647" subPackages="false" version="1.0"/>
+</session>
